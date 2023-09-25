@@ -1,2 +1,0 @@
-git clone ( nom du fichier ) :git add . , git commit -m ( mettre une note au fichier ) , git push ( permets de l'ajouter à git )
-git pull ( permets de modifier le fichier
